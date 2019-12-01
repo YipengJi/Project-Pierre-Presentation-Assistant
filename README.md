@@ -1,5 +1,5 @@
 # Pierre: The Presentation Assistant
-created at Enghacks 2019 in 48 hours by Penny Ji, Andrew Mourcos, Aidan Philpott and Robert Toyonaga.
+- created at Enghacks 2019 in 48 hours by Penny Ji, Andrew Mourcos, Aidan Philpott and Robert Toyonaga.
 
 #### What's the idea?
 Pierre helps people to **overcome public speaking anxiety** by improving their presentation skills and giving them confidence.
